@@ -7,7 +7,7 @@ const BUILD = params.get('b') || 'dev';
 const ASSETS = params.get('a') || 'dev';
 const CORE = `astraeon-core-${BUILD}`;
 const HEAVY = `astraeon-assets-${ASSETS}`;
-const HEAVY_RE = /\/(assets\/(models|textures)|previews|icons)\//;
+const HEAVY_RE = /\/(assets\/(models|models-m|textures)|previews|icons)\//;
 
 self.addEventListener('install', (e) => {
   self.skipWaiting();

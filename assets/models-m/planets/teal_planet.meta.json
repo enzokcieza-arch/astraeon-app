@@ -1,0 +1,49 @@
+{
+  "source": "Space_Planet_With_Asteroid.blend",
+  "planetRadiusBlender": 3.4656,
+  "belts": [
+    {
+      "source": "Torus.002",
+      "radius": 3.795,
+      "count": 1000,
+      "particleSize": 0.1,
+      "sizeRandom": 1.0
+    },
+    {
+      "source": "Torus.004",
+      "radius": 6.0743,
+      "count": 1000,
+      "particleSize": 0.1,
+      "sizeRandom": 1.0
+    },
+    {
+      "source": "Torus.001",
+      "radius": 7.7337,
+      "count": 1000,
+      "particleSize": 0.1,
+      "sizeRandom": 1.0
+    },
+    {
+      "source": "Torus.005",
+      "radius": 9.4385,
+      "count": 1000,
+      "particleSize": 0.1,
+      "sizeRandom": 1.0
+    },
+    {
+      "source": "Torus.003",
+      "radius": 12.07,
+      "count": 1000,
+      "particleSize": 0.1,
+      "sizeRandom": 1.0
+    },
+    {
+      "source": "Torus.006",
+      "radius": 15.7289,
+      "count": 1000,
+      "particleSize": 0.1,
+      "sizeRandom": 1.0
+    }
+  ],
+  "notes": "Radios de cintur\u00f3n normalizados por el radio del planeta. El volumen de niebla (Cube.060, Principled Volume) no es exportable a glTF: el juego lo recrea con shader."
+}

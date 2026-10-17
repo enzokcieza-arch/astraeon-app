@@ -1,0 +1,250 @@
+{
+  "source": "Space_Planet_With_Asteroid.blend (colecci\u00f3n Pathhae + Cube.061)",
+  "rocks": [
+    {
+      "node": "Rock_00",
+      "size": 2.0436,
+      "tris": 3000
+    },
+    {
+      "node": "Rock_01",
+      "size": 1.8412,
+      "tris": 3000
+    },
+    {
+      "node": "Rock_02",
+      "size": 1.5856,
+      "tris": 3000
+    },
+    {
+      "node": "Rock_03",
+      "size": 1.5553,
+      "tris": 3000
+    },
+    {
+      "node": "Rock_04",
+      "size": 1.3794,
+      "tris": 3000
+    },
+    {
+      "node": "Rock_05",
+      "size": 1.0267,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_06",
+      "size": 1.0199,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_07",
+      "size": 1.0113,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_08",
+      "size": 0.9299,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_09",
+      "size": 0.9138,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_10",
+      "size": 0.842,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_11",
+      "size": 0.8253,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_12",
+      "size": 0.8044,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_13",
+      "size": 0.7999,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_14",
+      "size": 0.7552,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_15",
+      "size": 0.5803,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_16",
+      "size": 0.5296,
+      "tris": 1600
+    },
+    {
+      "node": "Rock_17",
+      "size": 0.4623,
+      "tris": 700
+    },
+    {
+      "node": "Rock_18",
+      "size": 0.4553,
+      "tris": 700
+    },
+    {
+      "node": "Rock_19",
+      "size": 0.443,
+      "tris": 700
+    },
+    {
+      "node": "Rock_20",
+      "size": 0.4402,
+      "tris": 700
+    },
+    {
+      "node": "Rock_21",
+      "size": 0.4333,
+      "tris": 700
+    },
+    {
+      "node": "Rock_22",
+      "size": 0.4254,
+      "tris": 700
+    },
+    {
+      "node": "Rock_23",
+      "size": 0.4214,
+      "tris": 700
+    },
+    {
+      "node": "Rock_24",
+      "size": 0.4186,
+      "tris": 700
+    },
+    {
+      "node": "Rock_25",
+      "size": 0.4079,
+      "tris": 700
+    },
+    {
+      "node": "Rock_26",
+      "size": 0.4014,
+      "tris": 700
+    },
+    {
+      "node": "Rock_27",
+      "size": 0.3992,
+      "tris": 700
+    },
+    {
+      "node": "Rock_28",
+      "size": 0.3911,
+      "tris": 700
+    },
+    {
+      "node": "Rock_29",
+      "size": 0.3767,
+      "tris": 700
+    },
+    {
+      "node": "Rock_30",
+      "size": 0.3575,
+      "tris": 700
+    },
+    {
+      "node": "Rock_31",
+      "size": 0.3261,
+      "tris": 700
+    },
+    {
+      "node": "Rock_32",
+      "size": 0.2724,
+      "tris": 700
+    },
+    {
+      "node": "Rock_33",
+      "size": 0.2583,
+      "tris": 700
+    },
+    {
+      "node": "Rock_34",
+      "size": 0.2443,
+      "tris": 700
+    },
+    {
+      "node": "Rock_35",
+      "size": 0.1979,
+      "tris": 700
+    },
+    {
+      "node": "Rock_36",
+      "size": 0.189,
+      "tris": 700
+    },
+    {
+      "node": "Rock_37",
+      "size": 0.1725,
+      "tris": 700
+    },
+    {
+      "node": "Rock_38",
+      "size": 0.1725,
+      "tris": 700
+    },
+    {
+      "node": "Rock_39",
+      "size": 0.1715,
+      "tris": 700
+    },
+    {
+      "node": "Rock_40",
+      "size": 0.1691,
+      "tris": 700
+    },
+    {
+      "node": "Rock_41",
+      "size": 0.1386,
+      "tris": 700
+    },
+    {
+      "node": "Rock_42",
+      "size": 0.1283,
+      "tris": 700
+    },
+    {
+      "node": "Rock_43",
+      "size": 0.0869,
+      "tris": 700
+    },
+    {
+      "node": "Rock_44",
+      "size": 0.0818,
+      "tris": 700
+    },
+    {
+      "node": "Rock_45",
+      "size": 0.0803,
+      "tris": 700
+    },
+    {
+      "node": "Rock_46",
+      "size": 0.0792,
+      "tris": 700
+    },
+    {
+      "node": "Rock_47",
+      "size": 0.0698,
+      "tris": 700
+    },
+    {
+      "node": "Rock_48",
+      "size": 0.0632,
+      "tris": 700
+    }
+  ]
+}
